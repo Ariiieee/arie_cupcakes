@@ -1,0 +1,7 @@
+.listing {
+  color: #e08e8a;
+}
+
+.listing:hover {
+  text-decoration: underline;
+}
